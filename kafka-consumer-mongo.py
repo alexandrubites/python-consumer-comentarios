@@ -8,7 +8,7 @@ from pymongo.server_api import ServerApi
 
 import json
 
-uri = "mongodb+srv://alexandrubites:IUMD6wqtYGbVh0yw@cluster0.z4xurdo.mongodb.net/?retryWrites=true&w=majority"
+uri = "mongodb+srv://alexandrubites:IrvingConde@centeno.naivyqx.mongodb.net/?retryWrites=true&w=majority"
 # Create a new client and connect to the server
 # client = MongoClient(uri, server_api=ServerApi('1'))
 # Send a ping to confirm a successful connection
