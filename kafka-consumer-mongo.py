@@ -9,7 +9,7 @@ import os
 import json
 
 #uri = "mongodb+srv://alexandrubites:IrvingConde@centeno.naivyqx.mongodb.net/?retryWrites=true&w=majority"
-uri = os.environ['MONGODB_URI']
+uri = os.environ['MONGODB_URL']
 
 try:
     client = MongoClient(uri, server_api=ServerApi('1'))
